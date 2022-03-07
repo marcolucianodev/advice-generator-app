@@ -6,14 +6,17 @@ export const ContainerArea = styled.main`
     background-color: #1f2632;
     width: 100%;
     height: 100vh;
+    padding: 4%;
+    min-height: 500px;
 `;
 
-export const Container = () => {
+export const Container = ({children}) => {
+
     return (
         <ContainerArea>
-            
+            {children}
         </ContainerArea>
     );
 }
 
-export default Container;
+export default Container; 
