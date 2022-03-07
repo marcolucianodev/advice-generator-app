@@ -2,9 +2,9 @@
 
 [![Preview Image](https://github.com/marcolucianodev/advice-generator-app/blob/master/public/advice-generator.png)](https://app-advice-generator.netlify.app/)
 
-Projeto de estudo em React com styled-components, modelo usado em desafio do Front-end Mentor.
+Projeto Gerador de Conselhos em React com styled-components, modelo usado em desafio do Front-end Mentor.
 
-Nesse projeto foi desenvolvido uma aplicação onde aparace conselhos ao usuários. O usuário pode interagrir criclando em botão na aplicação que os conselhos vão se alterando dinâmicamente em cada clique. 
+Nesse projeto foi desenvolvido uma aplicação que gera conselhos ao usuários. O usuário pode interagrir cliclando em um botão na aplicação que os conselhos vão se alterando dinâmicamente em cada clique. 
 
 Foi ultilizado o ReactJS para a criação da aplicação, junto com react hooks e styled components.
 
