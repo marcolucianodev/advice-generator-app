@@ -11,7 +11,7 @@ export const ContainerArea = styled.main`
 export const Container = () => {
     return (
         <ContainerArea>
-            ...
+            
         </ContainerArea>
     );
 }
